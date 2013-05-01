@@ -1,0 +1,7 @@
+
+[squid-w00tw00t]
+enabled  = true
+filter   = squid-w00tw00t
+port     = all
+logpath  = /var/log/squid/access.log
+maxretry = 1
