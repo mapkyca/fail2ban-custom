@@ -1,0 +1,8 @@
+
+[exim-dos]
+enabled  = true
+filter   = exim-dos
+port     = all
+logpath  = /var/log/exim*/mainlog
+maxretry = 1
+bantime = 3600
