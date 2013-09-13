@@ -1,0 +1,7 @@
+
+[squid-badpingback]
+enabled  = true
+filter   = squid-badpingback
+port     = all
+logpath  = /var/log/squid/access.log
+maxretry = 1
